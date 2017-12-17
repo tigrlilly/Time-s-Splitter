@@ -16,7 +16,7 @@ See script detail notes for details on the reasoning behind programming decision
 PREREQUISITES
 Before you get started, you will need to request an API-key to the New York Times, or any
 source of your choosing, and any software to write a CSV to. The API-key that I used from the
-Times was their Article Search API that amy be found here,
+Times was their Article Search API that may be found here,
 https://developer.nytimes.com/article_search_v2.json
 Import your requests, json (in the case of the New York Times api), and csv.
 
